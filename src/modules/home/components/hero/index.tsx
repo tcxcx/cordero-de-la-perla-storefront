@@ -33,7 +33,7 @@ const Hero = () => {
               transition={transition1}
               onMouseEnter={mouseEnterHandler}
               onMouseLeave={mouseLeaveHandler}
-              className="w-full relative pt-40 pb-0 lg:pt-0 lg:pb-0 lg:w-auto z-10 lg:absolute flex flex-col justify-center lg:items-start">
+              className="w-full relative pt-40 pl-4 lg:pt-0 lg:pb-0 lg:w-auto z-10 lg:absolute flex flex-col justify-center lg:items-start">
               <h1 className="text-4xl lg:text-7xl mb-4 drop-shadow-md shadow-black">
                 Exquisite Pearl Creations
               </h1>
