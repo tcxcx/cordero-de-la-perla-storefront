@@ -59,7 +59,7 @@ const Hero = () => {
                   onMouseLeave={mouseLeaveHandler}
                 >
                   <Image
-                    src="/woman-pearl-mint.png"
+                    src="/woman-pearl-hero.png"
                     loading="eager"
                     priority={true}
                     quality={90}
